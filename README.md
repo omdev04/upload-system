@@ -1,10 +1,3 @@
-Absolutely! Here's the **entire `README.md` content in one markdown file**, exactly how it should appear when saved and committed to your GitHub repo:
-
----
-
-### ✅ Just copy the content below and save it as `README.md` in your project folder:
-
-```markdown
 # 📁 File Upload System
 
 A web-based file upload system built using **HTML, CSS, JavaScript**, and **Python (Flask)**. This project allows users to upload files via a web interface, which are then sent and stored securely in a **Telegram bot channel** using the **Telegram Bot API**.
