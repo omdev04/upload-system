@@ -103,7 +103,7 @@ upload-system/
 
 **Upload Interface:**
 
-![Screenshot 1](Screenshots/1.png)
+![Screenshot 1](Screenshots/2.png)
 
 **Telegram Bot Receiving Files:**
 
