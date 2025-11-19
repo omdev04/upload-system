@@ -99,8 +99,6 @@ upload-system/
 
 ## 📸 Screenshots
 
-> Add screenshots of the UI and Telegram bot below:
-
 **Upload Interface:**
 
 ![Screenshot 1](Screenshots/2.png)
