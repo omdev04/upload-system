@@ -136,10 +136,3 @@ This project is licensed under the [MIT License](LICENSE).
 **Om**  
 🔗 [GitHub Profile](https://github.com/Om976346)
 ```
-
----
-
-Let me know if you’d like me to also help you generate:
-- `.env` template file
-- `requirements.txt`
-- Live deployment guide (e.g., Render, Railway, Heroku, etc.)
